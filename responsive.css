@@ -10,7 +10,7 @@
 }
 
 /* buat smartphone */
-@media (min-width: 670px) {
+@media (max-width: 670px) {
     
     p{
         color: red;
