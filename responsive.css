@@ -1,0 +1,19 @@
+/* default = buat pc */
+
+
+/* buat tablet */
+@media (max-width: 1000px) {
+    
+    p{
+        color: blue;
+    }
+}
+
+/* buat smartphone */
+@media (min-width: 670px) {
+    
+    p{
+        color: red;
+    }
+
+}
