@@ -1,5 +1,8 @@
 /* default = buat pc */
-
+@font-face {
+    font-family: 'Abhaya Libre Regular';
+    src: url(fonts/Abhaya_Libre/AbhayaLibre-Regular.ttf);
+}
 
 /* buat tablet */
 @media (max-width: 1080px) {
@@ -65,6 +68,10 @@
         width: 60%;
         align-items: center;
         margin: 0%;
+    }
+
+    .footer p{
+        font-family: 'Abhaya Libre Regular';
     }
 
     .footer .text1
@@ -140,13 +147,18 @@
         font-size: 30px;
     }
 
+    .footer p{
+        font-family: 'Abhaya Libre Regular';
+    }
+
     .footer .text p{
         /* margin-left: 3% 0% 0% 2%;
-        font-size: 10px;
         display: inline-block;
         height: 5%; */
         /* float: left; */
+        font-size: 10px;
         display: none;
+
     }
 
     .social-media {
@@ -155,5 +167,9 @@
 
     .social-media p{
         font-size: 10px;
+    }
+
+    .footer .text1{
+        display: none;
     }
 }
