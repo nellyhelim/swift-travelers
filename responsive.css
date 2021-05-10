@@ -12,12 +12,12 @@
     {
         display: block;
         position: fixed;
-        height: 8%;
         width: 100%;
         top: 0;
         left: 0;
         right: 0;
         background-color: #dbbaa0;
+        padding-top: 1%;
     }
 
     .responsive-header-wrapper img{
@@ -27,20 +27,19 @@
         justify-content: space-between;
         align-content: space-between;
         text-align: center;
-        height: 8%;
-        width: 100%;
     }
 
     .responsive-header-wrapper img{
-        height: 10%;
-        width: 10%;
+        /* height: 8%; */
         float: left;
+        width: 10%;
     }
 
     #menubar{
         /* float: left; */
         display: inline-block;
         left: 0;
+       
     }
     #logo{
         /* float: left; */
@@ -78,6 +77,57 @@
 /* buat smartphone */
 @media (max-width: 720px) {
 
+    .header{
+        display: none;
+    }
+
+    .responsive-header
+    {
+        display: block;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: #dbbaa0;
+        padding-top: 1%;
+    }
+
+    .responsive-header-wrapper img{
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-content: space-between;
+        text-align: center;
+    }
+
+    .responsive-header-wrapper img{
+        /* height: 8%; */
+        float: left;
+        width: 10%;
+    }
+
+    #menubar{
+        /* float: left; */
+        display: inline-block;
+        left: 0;
+       
+    }
+    #logo{
+        /* float: left; */
+        height: 20%;
+        width: 20%;
+        display: inline-block;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    #searchbar{
+        /* float: right; */
+        display: inline-block;
+        right: 0;
+    }
+
     .main {
         margin: 10% 12% 10% 0%;
         align-items: center;
@@ -91,9 +141,14 @@
 
     .footer .text {
         margin-left: 2%;
+        font-size: 10px;
     }
 
     .social-media {
         padding: 10% 2% 12% 2%;
+    }
+
+    .social-media p{
+        font-size: 10px;
     }
 }
