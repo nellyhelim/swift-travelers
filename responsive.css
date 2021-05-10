@@ -137,15 +137,16 @@
     }
 
     .sign-up-wrapper h1{
-        font-size: large;
+        font-size: 30px;
     }
 
-
     .footer .text {
-        margin-left: 3% 0% 0% 2%;
+        /* margin-left: 3% 0% 0% 2%;
         font-size: 10px;
         display: inline-block;
         height: 5%;
+        float: left; */
+        display: none;
     }
 
     .social-media {
