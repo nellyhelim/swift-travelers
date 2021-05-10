@@ -152,10 +152,10 @@
     }
 
     .footer .text p{
-        /* margin-left: 3% 0% 0% 2%;
+        margin-left: 3% 0% 0% 2%;
         display: inline-block;
         font-size: 10px;
-        height: 5%; */
+        line-height: 5%; 
         /* float: left; */
         display: none;
     }
