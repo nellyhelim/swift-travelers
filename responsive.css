@@ -144,7 +144,7 @@
     }
 
     .sign-up-wrapper h1{
-        font-size: 30px;
+        font-size: 20px;
     }
 
     .footer p{
@@ -154,11 +154,10 @@
     .footer .text p{
         /* margin-left: 3% 0% 0% 2%;
         display: inline-block;
+        font-size: 10px;
         height: 5%; */
         /* float: left; */
-        font-size: 10px;
         display: none;
-
     }
 
     .social-media {
