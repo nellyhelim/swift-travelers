@@ -23,16 +23,35 @@
         padding-top: 1%;
     }
 
-    .responsive-header-wrapper img{
-    
-        display: flex;
+    .responsive-header-wrapper
+    {
+        display: inline-flex;
+        width: 95%;
+        height: 5%;
         flex-direction: row;
         justify-content: space-between;
         align-content: space-between;
         text-align: center;
         /* height: 8%; */
         float: left;
-        
+    }
+
+    .responsive-header-wrapper #menubar
+    {
+        width: 10%;
+        float: left;
+    }
+
+    .responsive-header-wrapper #logo
+    {
+        width: 20%;
+        float: center;
+    }
+
+    .responsive-header-wrapper #searchbar
+    {
+        width: 15%;
+        float: right;
     }
 
     #menubar{
@@ -59,15 +78,24 @@
     
     .main
     {
-        margin: 5% 20% 0% 0%;
-        align-items: center;
-        padding: 15% 0% 20% 0%;
+        margin: 10% 0% 30% 0%;
+        align-items: center;   
+    }
+
+    .main .string{
+        display: flex;
+        justify-content: center;
+    }
+
+    .main .string img
+    {
+        width: 50%;
     }
 
     .sign-up-wrapper {
+        margin: 0% 20% 30% 0%;
         width: 60%;
         align-items: center;
-        margin: 0%;
     }
 
     .footer p{
@@ -133,21 +161,20 @@
     }
 
     .main {
-        margin: 0% 12% 10% 0%;
+        margin: 10% 0% 0% 0%;
         align-items: center;
+        align-content: center;
     }
 
-    .string{
-        display: inline-block;
-        text-align: center;
-        width: 60%;
-        height: 30px;
+    .main .string img
+    {
+        display: block;
+        width: 70%;
     }
 
     .sign-up-wrapper {
         width: 75%;
-        align-items: center;
-        margin: 0%;
+        margin: 0% 10%;
     }
 
     .sign-up-wrapper h1{
@@ -158,17 +185,25 @@
         font-family: 'Abhaya Libre Regular';
     }
 
-    .footer .text p{
-        /* margin-left: 3% 0% 0% 2%;
-        display: inline-block;
-        font-size: 15px;
-        line-height: 5%;  */
-        /* float: left; */
+    .footer .text
+    {
         display: none;
     }
 
+    /* .footer .text p{
+        margin-left: 3% 0% 0% 2%;
+        display: inline-block;
+        font-size: 15px;
+        line-height: 5%;
+         float: left;
+        display: none;
+    } */
+
     .social-media {
-        padding: 10% 2% 12% 2%;
+        align-self: center;
+        height: 3%;
+        padding: 2% 10%;
+        margin-top: 15%;
     }
 
     .social-media p{
