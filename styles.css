@@ -136,6 +136,10 @@ body{
 
 /* -----------------------------SIGN UP FORM------------------------------------ */
 
+.string{
+    display: none;
+}
+
 .sign-up-wrapper{
     float: right;
     /* padding: 0px 50px 100px 50px; */
