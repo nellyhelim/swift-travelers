@@ -3,10 +3,10 @@
 -- Group A15 --
 <br /> <br />
 Members: <br />
-Nelly Helim <br />
-Tiffany Ciangsawira <br />
-Vellyne Tjiam <br />
-William Chrisandy <br />
+- Nelly Helim <br />
+- Tiffany Ciangsawira <br />
+- Vellyne Tjiam <br />
+- William Chrisandy <br />
 
 Held by Binus International x Progate Coding Bootcamp
 
