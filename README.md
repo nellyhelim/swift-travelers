@@ -16,7 +16,7 @@ Nelly Helim <br />
 - make html, css, and responsive design
 
 Tiffany Ciangsawira <br />
-- make html and css for footer design
+- make html and css for footer part
 
 Vellyne Tjiam <br />
 - make user interface design for pc, tablet, and smartphone mode <br />
