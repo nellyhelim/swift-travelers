@@ -19,7 +19,7 @@ Tiffany Ciangsawira <br />
 - make html and css for footer part
 
 Vellyne Tjiam <br />
-- make user interface design for pc, tablet, and smartphone mode <br />
+- make user interface designs for pc, tablet, and smartphone mode <br />
 
 William Chrisandy <br />
 - make html, css, and responsive design <br />
