@@ -13,7 +13,7 @@ Held by Binus International x Progate Coding Bootcamp
 Job desc:
 
 Nelly Helim <br />
-- make html, css, and responsive design
+- collaborate with William to make html, css, and responsive design
 
 Tiffany Ciangsawira <br />
 - make html and css for footer part
@@ -22,5 +22,5 @@ Vellyne Tjiam <br />
 - make user interface designs for pc, tablet, and smartphone mode <br />
 
 William Chrisandy <br />
-- make html, css, and responsive design <br />
+- collaborate with Nelly to make html, css, and responsive design <br />
 
